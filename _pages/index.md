@@ -12,4 +12,4 @@ Welcome to my journal, a log of ideas, a place of exploration for me. This is wh
 
 I have listed out the big experiments here:
 
-[[Dharmic Investing]]
+- [Dharmic Investing](/Dharmic_Investing)
