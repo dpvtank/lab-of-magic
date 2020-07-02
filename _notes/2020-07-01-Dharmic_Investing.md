@@ -1,3 +1,9 @@
+---
+title: Dharmic Investing
+published: true
+template: note
+---
+
 ## Dharmic Investing
 
 Inspired by this [article](https://www.hinduismtoday.com/modules/smartsection/item.php?itemid=6003) on marrying [[Dharma]] with investing money, I wonder if it is possible to analyze companies on their adherence to dharmic principles.
