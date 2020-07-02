@@ -3,9 +3,13 @@ layout: default
 title: Home
 id: home
 permalink: /
+published: true
 ---
 
-<div>
-  <h1>Welcome! 🌱</h1>
-  <p>This is your digital garden. Here's the <a href="/your-first-note">first note</a> to get started on your exploration.</p>
-</div>
+## The Lab of Magic!
+
+Welcome to my journal, a log of ideas, a place of exploration for me. This is where I write out and connect ideas that I want to make, paint, draw, create, build, publish, and share with myself and the world. They are incomplete experiments, but they can grow into something more substantial.
+
+I have listed out the big experiments here:
+
+[[Dharmic Investing]]
